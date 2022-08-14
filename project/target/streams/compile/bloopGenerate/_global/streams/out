@@ -1,0 +1,4 @@
+[debug] [templ-build] Classpath dependencies List()
+[debug] [templ-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'templ-build' to '/root/1lab/templ/project/.bloop/templ-build.json'
+[success] Generated .bloop/templ-build.json
